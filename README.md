@@ -189,16 +189,18 @@ curl -X POST http://localhost:8082/api/reservations \
 ## 📸 Screenshots
 
 ### Eureka Dashboard
-<!-- Add your Eureka screenshot here -->
-*Screenshot placeholder - Services registered in Eureka*
+<img width="945" height="645" alt="image" src="https://github.com/user-attachments/assets/d55d704b-5a89-4dca-8f5e-339b2219fc88" />
+
 
 ### Postman Collection
-<!-- Add your Postman collection screenshot here -->
-*Screenshot placeholder - API testing results*
+<img width="945" height="647" alt="image" src="https://github.com/user-attachments/assets/be73774d-24a6-4aa3-98c6-ca744f9ff6ba" />
+<img width="945" height="428" alt="image" src="https://github.com/user-attachments/assets/3e61ff19-8ad9-4b2f-99c2-cda55059a206" />
+<img width="945" height="451" alt="image" src="https://github.com/user-attachments/assets/a13c40aa-f2c9-4ebf-b1b7-eb35fa76e1da" />
+<img width="945" height="633" alt="image" src="https://github.com/user-attachments/assets/6956c943-d6b0-421a-8c8e-656b045509d7" />
+<img width="945" height="391" alt="image" src="https://github.com/user-attachments/assets/ddd2da4a-41d4-4664-8e49-6f046203d47d" />
+<img width="945" height="618" alt="image" src="https://github.com/user-attachments/assets/95602dc7-758f-45dd-8504-bcd7530484e8" />
 
-### Application Logs
-<!-- Add your application logs screenshot here -->
-*Screenshot placeholder - Service startup logs*
+
 
 ## 🧪 Testing
 
