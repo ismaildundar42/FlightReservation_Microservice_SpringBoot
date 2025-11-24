@@ -8,18 +8,6 @@
 
 A modern **microservices architecture** implementation for flight reservation system built with **Spring Boot** and **Spring Cloud**.
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [Technologies](#-technologies)
-- [Services](#-services)
-- [Quick Start](#-quick-start)
-- [API Documentation](#-api-documentation)
-- [Screenshots](#-screenshots)
-- [Testing](#-testing)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
 
 ## 🎯 Overview
 
@@ -46,7 +34,7 @@ This project demonstrates a complete microservices ecosystem for airline reserva
               ┌─────────▼──────────┐   ┌──▼──────────────▼──┐
               │  Flight Service    │   │ Reservation Service │
               │  Port: 8081        │───│ Port: 8082          │
-              │  Database: H2      │   │ Database: H2        │
+              │  Database: MySql       │   │ Database: MySql │
               └────────────────────┘   └─────────────────────┘
 ```
 
